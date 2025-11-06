@@ -1,0 +1,14 @@
+# Qt build folders
+build/
+*.o
+*.obj
+*.exe
+*.user
+*.moc
+*.pro.user
+*.qrc
+*.rcc
+*.qrc.cpp
+
+# Other
+*.log
